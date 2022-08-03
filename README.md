@@ -78,3 +78,10 @@
      - **The overall difference in December and June precipitation x temperature is relatively low.**
 
 * **The data collected suggests that there is no evident reason to believe that the Surf Shop will perform poorly due to the weather since there is no drastic difference in temperature and precipitation patterns between the summer months and winter months.**
+
+## Questions
+
+* You can contact me via email or GitHub!
+
+    * Email: emilyporter920@gmail.com
+    * GitHub Profile: Emily Porter || github.com/emilyporter920 
