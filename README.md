@@ -1,7 +1,7 @@
 # Surfs Up
 
 ## Overview
-**Analysis performed on weather data to aid in the decision to invest in a surf shop in O'ahu, Hawaii.**
+**Analysis performed on weather data to aid in the decision to invest in a surf shop in O'ahu, Hawaii.** __
 
 -----
 ## Results
